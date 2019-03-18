@@ -1,0 +1,10 @@
+Quiz2F
+Lee Alden D. Baguio
+BS CpE 4B
+
+We have observed that the fuse was defective. Because the fuse was defective, we were not able to check the other parts of the motherboard.I have observed that the unit has never been maintained.
+
+Solutions:
+1. Replace the fuse.
+2. Clean the system unit.
+3. Change the powersupply.

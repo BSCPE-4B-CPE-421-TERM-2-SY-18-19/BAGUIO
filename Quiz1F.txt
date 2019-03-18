@@ -1,0 +1,10 @@
+Quiz 1F
+Lee Alden D. Baguio
+BS CpE 4B
+
+
+It is functional because an operating systen is already installed and also, it is properly connected to the power source.
+
+A blinking red means taht it did not meet the required input voltage or it is not connected properly and if the red LED is stable while the green LED is blinking, it is functional.
+
+This is according from the observation of the other section. It is also from the site: elinux.org/R-Pi_troubleshooting.
